@@ -223,6 +223,6 @@ if website_url or pdf_text:
 with st.sidebar:
     st.markdown('---')
     st.markdown('Connect with me:')
-    st.markdown('[LinkedIn](https://www.linkedin.com/in/sunil-giri77/)')
-    st.markdown('[GitHub](https://github.com/sunilgiri7)')
-    st.markdown('[Email](mailto:seungiri841@gmail.com)')
+    st.markdown('[LinkedIn](linkedin.com/in/satyam-jain-76290521b)')
+    st.markdown('[GitHub](https://github.com/satyamgits07)')
+    st.markdown('[Email](mailto:jainsatyam503@gmail.com)')
